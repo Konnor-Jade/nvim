@@ -1,0 +1,17 @@
+# 设置最大列宽
+column_width = 120
+
+# 设置行尾格式
+line_endings = "Unix"
+
+# 设置缩进类型
+indent_type = "Spaces"
+
+# 设置缩进宽度
+indent_width = 2
+
+# 设置引号风格
+quote_style = "AutoPreferDouble"
+
+# 设置函数调用括号风格
+call_parentheses = "None"
